@@ -16,7 +16,7 @@ To use this project, follow these steps:
 
 **Install Dependencies**: Ensure that you have all the necessary dependencies installed. This may include Python, TensorFlow, Keras, and other required libraries. Use the following command to install the Python dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 **Data Preparation**: Prepare your dataset by organizing it into appropriate directories for training, validation, and testing. Ensure that the images are properly labeled as fire or non-fire.
 
